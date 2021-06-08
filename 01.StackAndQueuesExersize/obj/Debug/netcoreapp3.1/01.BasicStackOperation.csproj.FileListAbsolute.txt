@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\01.StackAndQueuesExersize\01.StackAndQueuesExersize\bin\Debug\netcoreapp3.1\01.BasicStackOperation.exe
+C:\Users\Admin\source\repos\01.StackAndQueuesExersize\01.StackAndQueuesExersize\bin\Debug\netcoreapp3.1\01.BasicStackOperation.deps.json
+C:\Users\Admin\source\repos\01.StackAndQueuesExersize\01.StackAndQueuesExersize\bin\Debug\netcoreapp3.1\01.BasicStackOperation.runtimeconfig.json
+C:\Users\Admin\source\repos\01.StackAndQueuesExersize\01.StackAndQueuesExersize\bin\Debug\netcoreapp3.1\01.BasicStackOperation.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\01.StackAndQueuesExersize\01.StackAndQueuesExersize\bin\Debug\netcoreapp3.1\01.BasicStackOperation.dll
+C:\Users\Admin\source\repos\01.StackAndQueuesExersize\01.StackAndQueuesExersize\bin\Debug\netcoreapp3.1\01.BasicStackOperation.pdb
+C:\Users\Admin\source\repos\01.StackAndQueuesExersize\01.StackAndQueuesExersize\obj\Debug\netcoreapp3.1\01.BasicStackOperation.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\01.StackAndQueuesExersize\01.StackAndQueuesExersize\obj\Debug\netcoreapp3.1\01.BasicStackOperation.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\01.StackAndQueuesExersize\01.StackAndQueuesExersize\obj\Debug\netcoreapp3.1\01.BasicStackOperation.AssemblyInfo.cs
+C:\Users\Admin\source\repos\01.StackAndQueuesExersize\01.StackAndQueuesExersize\obj\Debug\netcoreapp3.1\01.BasicStackOperation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\01.StackAndQueuesExersize\01.StackAndQueuesExersize\obj\Debug\netcoreapp3.1\01.BasicStackOperation.dll
+C:\Users\Admin\source\repos\01.StackAndQueuesExersize\01.StackAndQueuesExersize\obj\Debug\netcoreapp3.1\01.BasicStackOperation.pdb
+C:\Users\Admin\source\repos\01.StackAndQueuesExersize\01.StackAndQueuesExersize\obj\Debug\netcoreapp3.1\01.BasicStackOperation.genruntimeconfig.cache
